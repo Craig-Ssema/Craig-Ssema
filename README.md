@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Craig-Ssema
-- 👀 I’m interested in cars, gaming, drawing and trips.
-- 🌱 I’m currently majaring in CS
+- 🌱 I’m currently majoring in CS
 - 💞️ I’m looking to collaborate on a few ambitious projects.
 - 📫 How to reach me +1 346 863 2460
 
